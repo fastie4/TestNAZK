@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestNAZK</string>
+    <string name="debug">debug</string>
+    <string name="search_hint">Пошук…</string>
+    <string name="search_title">Пошук</string>
+    <string name="to_search">Для пошуку натисніть іконку пошуку та введіть пошуковий запит.</string>
+    <string name="start_search">Розпочати</string>
+    <string name="whoops">Інтернет-з\'єднання відсутнє :(</string>
+    <string name="no_internet">Ви не підключені до мережі Інтернет.\nПеревірте, будь ласка, Ваше з\'єднання та спробуйте ще раз.</string>
+    <string name="no_results">По Вашому запиту нічого не знайдено.</string>
+    <string name="no_results_favourites">Список Ваших обраних записів порожній.</string>
+    <string name="comment">Коментар</string>
+</resources>
